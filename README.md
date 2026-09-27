@@ -23,5 +23,3 @@ The scout, the owner and the buyer are Preemption team wallets. This was a test 
 | Deed listed | 0.004 ETH | 20:04:35 | [0xe64608e8…](https://robinhoodchain.blockscout.com/tx/0xe64608e8f8dcf63bfaf9ccb8cd408de72c5572a7ab61efa901faf5c3245b04bc) |
 | Deed sold | 0.004 ETH | 20:05:39 | [0xd390275d…](https://robinhoodchain.blockscout.com/tx/0xd390275d69f22fd547e77a6c37b1b13a41b035fcb31326a26799f94dc250d241) |
 | Seller withdraws | 0.00396 ETH | 20:06:36 | [0x0905daf5…](https://robinhoodchain.blockscout.com/tx/0x0905daf5a9bc9cfc5371e6833918825c0f325983d0e97b84caded98f48b63ce4) |
-
-The deed today: https://preemption.dev/marketplace?handle=gh%2Ffletrixx%2Fmainnet-proof
